@@ -1,0 +1,1 @@
+# php-analiza_magazin
